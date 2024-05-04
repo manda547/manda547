@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a girl that is very new to the coding world and excited to get started!
 <!--
 **manda547/manda547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
